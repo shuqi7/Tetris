@@ -1,0 +1,9 @@
+norandom demoseq2.txt
+dr
+3ri
+dr
+6ri
+dr
+8ri
+dr
+dr

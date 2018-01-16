@@ -1,0 +1,5 @@
+norandom demoseq3.txt
+dr
+3ri
+dr
+7ri
