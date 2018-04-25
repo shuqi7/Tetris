@@ -8,9 +8,6 @@ The Tetris game - based on C++
 Level 1:
 <img src="http://i66.tinypic.com/9j3xgk.png" width="300">
 
-
-![alt text](http://i66.tinypic.com/9j3xgk.png | width=300)
-
 Level 4:
+<img src="http://i67.tinypic.com/2klgt0.jpg" width="300">
 
-![alt text](http://i67.tinypic.com/2klgt0.jpg | with=300)
